@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://www.strathseds.org/static/stylesheets/sitemap.xls"?>
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+	<loc>http://www.strathseds.org/</loc>
+	<changefreq>daily</changefreq>
+	<priority>1.0</priority>
+	</url>
+
+	<url>
+	<loc>http://www.strathseds.org/news/2014/09/13/StrathSEDS-competition-rocket/</loc>
+	<changefreq>daily</changefreq>
+	<priority>0.5</priority>
+	</url>
+
+	<url>
+	<loc>http://www.strathseds.org/news/2014/02/11/strathseds-first-rocket/</loc>
+	<changefreq>daily</changefreq>
+	<priority>0.5</priority>
+	</url>
+
+	<url>
+	<loc>http://www.strathseds.org/news/2013/09/20/message-from-the-president/</loc>
+	<changefreq>daily</changefreq>
+	<priority>0.5</priority>
+	</url>
+
+	<url>
+	<loc>http://www.strathseds.org/news/2013/09/13/Freshers-2013/</loc>
+	<changefreq>daily</changefreq>
+	<priority>0.5</priority>
+	</url>
+
+	<url>
+	<loc>http://www.strathseds.org/news/2013/09/04/RAES-outreach/</loc>
+	<changefreq>daily</changefreq>
+	<priority>0.5</priority>
+	</url>
+
+	<url>
+	<loc>http://www.strathseds.org/news/2013/07/20/Pulse-plasma-thruster/</loc>
+	<changefreq>daily</changefreq>
+	<priority>0.5</priority>
+	</url>
+
+	<url>
+	<loc>http://www.strathseds.org/news/2013/07/16/UK-Space-Conference/</loc>
+	<changefreq>daily</changefreq>
+	<priority>0.5</priority>
+	</url>
+
+	<url>
+	<loc>http://www.strathseds.org/news/2012/10/05/StrathSat-R-wins-at-IAC2012/</loc>
+	<changefreq>daily</changefreq>
+	<priority>0.5</priority>
+	</url>
+
+	<url>
+	<loc>http://www.strathseds.org/news/2012/09/03/StrathSatR-accepted-to-REXUS/</loc>
+	<changefreq>daily</changefreq>
+	<priority>0.5</priority>
+	</url>
+
+	<url>
+	<loc>http://www.strathseds.org/news/2011/12/06/REXUS-workshop/</loc>
+	<changefreq>daily</changefreq>
+	<priority>0.5</priority>
+	</url>
+
+	<url>
+	<loc>http://www.strathseds.org/news/2011/04/04/StrathSEDS-at-AIAA-Small-Satellite-Conference/</loc>
+	<changefreq>daily</changefreq>
+	<priority>0.5</priority>
+	</url>
+
+
+    
+    
+
+    
+    
+
+    
+	<url>
+	<loc>http://www.strathseds.org/projects/REXUS/FRODO/</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.8</priority>
+	</url>
+    
+
+    
+	<url>
+	<loc>http://www.strathseds.org/projects/PPT/</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.8</priority>
+	</url>
+    
+
+    
+	<url>
+	<loc>http://www.strathseds.org/projects/REXUS/SAM/</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.8</priority>
+	</url>
+    
+
+    
+	<url>
+	<loc>http://www.strathseds.org/projects/REXUS/SHIRE/</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.8</priority>
+	</url>
+    
+
+    
+	<url>
+	<loc>http://www.strathseds.org/about/</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.8</priority>
+	</url>
+    
+
+    
+	<url>
+	<loc>http://www.strathseds.org/projects/air-space-transport/</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.8</priority>
+	</url>
+    
+
+    
+    
+
+    
+    
+
+    
+	<url>
+	<loc>http://www.strathseds.org/projects/</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.8</priority>
+	</url>
+    
+
+    
+	<url>
+	<loc>http://www.strathseds.org/</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.8</priority>
+	</url>
+    
+
+    
+	<url>
+	<loc>http://www.strathseds.org/projects/REXUS/</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.8</priority>
+	</url>
+    
+
+    
+	<url>
+	<loc>http://www.strathseds.org/posts/</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.8</priority>
+	</url>
+    
+
+    
+	<url>
+	<loc>http://www.strathseds.org/projects/rocket-competition/</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.8</priority>
+	</url>
+    
+
+    
+	<url>
+	<loc>http://www.strathseds.org/signup/</loc>
+	<changefreq>weekly</changefreq>
+	<priority>0.8</priority>
+	</url>
+    
+
+    
+    
+
+</urlset>
