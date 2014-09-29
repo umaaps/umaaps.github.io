@@ -1,14 +1,14 @@
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: StrathSEDS
+name: UMAAPS
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: Students for the Exploration and Development of Space
+description: University of Manitoba AAPS Student Chapter
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: StrathSED
+author: UMAAPS
 
 # Logo image
-logo: http://www.strathseds.org/static/images/logos/strathseds-200px.png
+logo: http://umaaps.github.io/static/images/logos/strathseds-200px.png
 
 # Your email if you want it to be linked on the contact page
 contact_email: contact@strathseds.org
@@ -55,13 +55,13 @@ committee:
   
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-baseurl: http://www.strathseds.org
-url: http://www.strathseds.org/
-projecturl: http://www.strathseds.org/projects/
+baseurl: http://umaaps.github.io
+url: http://umaaps.github.io/
+projecturl: http://umaaps.github.io/projects/
 
 # Static URL's
-staticurl: http://www.strathseds.org/static
-imageurl: http://www.strathseds.org/static/images/
+staticurl: http://umaaps.github.io/static
+imageurl: http://umaaps.github.io/static/images/
 
 # Link to the strathseds google doc
 joinlink: https://docs.google.com/forms/d/1se_VAeEZ0Coy9uWl6fSnfEhbLANFqqCxk_F3Ye6W_CM/viewform?embedded=true
