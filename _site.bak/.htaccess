@@ -1,7 +1,0 @@
-ErrorDocument 404 /404/
-ErrorDocument 500 http://www.strathseds.org/static/500.html
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteCond %{HTTP_HOST} !^www.strathseds.org$ [NC]
-RewriteRule ^(.*)$ http://www.strathseds.org/$1 [R=301,L]
-</IfModule>
