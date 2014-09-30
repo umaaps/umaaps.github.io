@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
+    <title>University of Manitoba AAPS Student Chapter (UMASC)</title>
+    <description>University of Manitoba AAPS Student Chapter</description>
     <link>http://umaaps.github.io/http://umaaps.github.io/</link>
     <atom:link href="http://umaaps.github.io/http://umaaps.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 29 Sep 2014 21:27:04 -0500</pubDate>
-    <lastBuildDate>Mon, 29 Sep 2014 21:27:04 -0500</lastBuildDate>
+    <pubDate>Mon, 29 Sep 2014 23:08:48 -0500</pubDate>
+    <lastBuildDate>Mon, 29 Sep 2014 23:08:48 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
