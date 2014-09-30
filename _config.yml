@@ -18,3 +18,9 @@ bootstrapurl: http://umaaps.github.io/assets/bootstrap
 
 # Build settings
 markdown: kramdown
+
+# Social Account
+twitter_name: 'UM_AAPS'
+twitter_creator: '@UM_AAPS'
+twitter_title: University of Manitoba AAPS Student Chapter
+twitter_description: University of Manitoba AAPS Student Chapter is the local student chapter of AAPS in Manitoba/Canada.
