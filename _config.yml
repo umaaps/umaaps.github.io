@@ -1,17 +1,10 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+# Name of your Site
+title: UM AAPS Student Chapter
+email: 
 
-
-twitter_username: jekyllrb
-github_username:  jekyll
-
-# Build settings
-markdown: kramdown
+# Short description (goes below the title)
+description: University of Manitoba AAPS Student Chapter
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
 baseurl: http://umaaps.github.io
@@ -22,3 +15,6 @@ projecturl: http://umaaps.github.io/projects/
 assetsurl: http://umaaps.github.io/assets
 imageurl: http://umaaps.github.io/assets/images/
 bootstrapurl: http://umaaps.github.io/assets/bootstrap
+
+# Build settings
+markdown: kramdown
