@@ -43,15 +43,10 @@ committee:
     email: vicepresident@strathseds.org
     position: Vice-president
   funding:
-    name: Ciara McGrath
-    gravatar: 29e309f15dc5748a962f13185d90bf62
-    email: treasurer@strathseds.org
-    position: Treasurer
-  cto:
     name: Adam McGhie
     gravatar: 29e309f15dc5748a962f13185d90bf62
     email: cto@strathseds.org
-    position: Chief Technology Officer
+    position: Treasurer
   outreach:
     name: Lukaz Zapotoczny
     gravatar: 29e309f15dc5748a962f13185d90bf62
