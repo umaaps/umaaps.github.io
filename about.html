@@ -46,9 +46,9 @@ permalink: /about/
                 		{% for committee_positions in site.committee_positions %}
                 		{% assign committee = site.committee[committee_positions] %}
                 		<li class="media">
-                    		<img class="pull-left img-thumbnail" src="https://0.gravatar.com/avatar/{{committee.gravatar}}?s=55" alt="{{committee.name}}" />
+                    		<img class="pull-left img-thumbnail" src="https://0.gravatar.com/avatar/{{committee.gravatar}}?s=60" alt="{{committee.name}}" />
                     			<div class="media-body">
-                        			<h5 class="media-heading">{{committee.position}}</h5>
+                        			<h5 class="media-heading"><b>{{committee.position}}</b></h5>
                         			<p>Name: {{committee.name}}</p>
                         			<p>Email: <a href="mailto:{{committee.email}}">{{committee.email}}</a></p>
                     			</div>
