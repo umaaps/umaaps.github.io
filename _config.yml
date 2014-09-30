@@ -33,22 +33,23 @@ web_email: chanyufei@gmail.com
 committee_positions: [president, vp, treasurer, secretary]
 committee:
   president:
-    name: Ben Turner
+    name: Sarandeep Malhi
     gravatar: 29e309f15dc5748a962f13185d90bf62
-    email: president@strathseds.org
+    email: malhis@myumanitoba.ca
     position: President
   vp:
     name: Jennifer Miller
     gravatar: 29e309f15dc5748a962f13185d90bf62
     email: vicepresident@strathseds.org
     position: Vice-president
-  treasurer:
-    name: Ciara McGrath
-    gravatar: 29e309f15dc5748a962f13185d90bf62
-    email: treasurer@strathseds.org
-    position: Treasurer
   secretary:
-    name: Adam McGhie
+    name: Yufei Chen
     gravatar: 29e309f15dc5748a962f13185d90bf62
-    email: cto@strathseds.org
+    email: umche355@myumanitoba.ca
     position: Secretary
+  treasurer:
+    name: Sidi Yang
+    gravatar: 29e309f15dc5748a962f13185d90bf62
+    email: sidi.yang@umanitoba.ca
+    position: Treasurer
+
