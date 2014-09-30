@@ -16,6 +16,9 @@ assetsurl: http://umaaps.github.io/assets
 imageurl: http://umaaps.github.io/assets/images
 bootstrapurl: http://umaaps.github.io/assets/bootstrap
 
+# Static URL's
+staticurl: http://umaaps.github.io/assets
+
 # Build settings
 markdown: kramdown
 

@@ -1,0 +1,9 @@
+---
+---
+ErrorDocument 404 /404/
+ErrorDocument 500 {{site.staticurl}}/500.html
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^umaaps.github.io$ [NC]
+RewriteRule ^(.*)$ http://umaaps.github.io/$1 [R=301,L]
+</IfModule>
