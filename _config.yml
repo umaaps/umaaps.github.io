@@ -33,7 +33,7 @@ contact_email: umaaps.chapter@gmail.com
 web_email: chanyufei@gmail.com
 
 # Committee data
-committee_positions: [president, vp, secretary, treasurer]
+committee_positions: [president, secretary, treasurer]
 committee:
   president:
     name: Sarandeep Malhi
