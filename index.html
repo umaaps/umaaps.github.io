@@ -1,14 +1,15 @@
 ---
 layout: default
 ---
-      <!-- Jumbotron -->
-      <div class="jumbotron">
+      <!-- Start of Main Infor Slide -->
+      <div class="jumbotron" style="background-image: url({{site.imageurl}}/aaps-bg.jpg)">
         <h1>Welcome New Members!</h1>
         <p class="lead">As the new 2014-2015 fall semester started, we are recruting new members! Every first-time joined graduate student will have your complete <b>FREE</b> first year membership. No reason to wait!</p>
         <p><a class="btn btn-xs btn-primary" href="#">What is AAPS?</a> <a class="btn btn-xs btn-success" href="#">Sign up today</a></p>
       </div>
-      
-      <!-- Subheadings -->
+      <!-- End of Main Infor Slide -->
+
+      <!-- Start of Recent News/Event -->
       <div class="row marketing">
         <div class="col-lg-6">
           <h4 style="color:#1f5b9b">Vice-president Election</h4>
@@ -30,23 +31,24 @@ layout: default
           <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p> 
           <p><a class="btn btn-xs btn-warning" href="{{site.baseurl}}/photo/">View details »</a></p>
         </div>
+      <!-- End of Recent News/Event -->
 
+      <!-- Start of Twitter Widget -->
         <div class="col-lg-6">
           <h4 style="color:#1f5b9b">Chapter In Action</h4>
           <a class="twitter-timeline"
              href="https://twitter.com/UM_AAPS"
              data-chrome="noheader nofooter noborders noscrollbar transparent"
              data-widget-id="518222632328519680"></a>
-<script type="text/javascript">
-window.twttr = (function (d, s, id) {
-  var t, js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id; js.src= "https://platform.twitter.com/widgets.js";
-  fjs.parentNode.insertBefore(js, fjs);
-  return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });
-}(document, "script", "twitter-wjs"));
-</script>
- 
-
-        </div>
+                <script type="text/javascript">
+                  window.twttr = (function (d, s, id) {
+                    var t, js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id)) return;
+                    js = d.createElement(s); js.id = id; js.src= "https://platform.twitter.com/widgets.js";
+                    fjs.parentNode.insertBefore(js, fjs);
+                    return window.twttr || (t = { _e: [], ready: function (f) { t._e.push(f) } });
+                  }(document, "script", "twitter-wjs"));
+                </script>
+         </div>
+      <!-- End of Twitter Widget -->
       </div>
