@@ -15,7 +15,7 @@ projecturl: http://umaaps.github.io/projects/
 assetsurl: http://umaaps.github.io/assets
 imageurl: http://umaaps.github.io/assets/images
 bootstrapurl: http://umaaps.github.io/assets/bootstrap
-fancyboxurl:http://umaaps.github.io/assets/fancybox
+fancyboxurl: http://umaaps.github.io/assets/fancybox
 
 # Static URL's
 staticurl: http://umaaps.github.io/assets
