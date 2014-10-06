@@ -31,7 +31,8 @@ layout: default
           <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p> 
           <p><a class="btn btn-xs btn-warning" href="http://umaaps.github.io/news/2014/08/14/welcome-to-jekyll.html">View details »</a></p>
         </div>
-                <div class="row">
+
+        <div class="col-lg-6">
         {% for post in site.posts limit: 4 %}
             <div class="col-xs-12 col-sm-6 col-md-3">
                 <h2><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h2>
@@ -41,6 +42,7 @@ layout: default
             </div>
         {% endfor %}
         </div>
+
       <!-- End of Recent News/Event -->
 
       <!-- Start of Twitter Widget -->
