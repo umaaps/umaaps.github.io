@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Summer Camping - Kenora!
+author: UM AAPS
 date:   2014-08-14 20:48:12
 categories: News
 excerpt: Our most amazing activity during the summer of 2014!
