@@ -12,27 +12,6 @@ layout: default
       <!-- Start of Recent News/Event -->
       <div class="row marketing">
         <div class="col-lg-6">
-          <h4 style="color:#1f5b9b">Vice-president Election</h4>
-          <p style="color:#939aa0">Event / Oct - 2014 </p>
-          <p>Wanna contribute to the our chapter and interested in working a leader? Don't wait! We are recruiting Vic-president for the chapter now!</p>
-          <p><a class="btn btn-xs btn-info" href="{{site.baseurl}}/event/">View details »</a>
-          <hr>
-          </p>
-
-          <h4 style="color:#1f5b9b">Official Website Launched!</h4>
-          <p style="color:#939aa0">Event / Oct - 2014 </p>
-          <p>Our chapter's official website is now launching! Check out our previous activities!</p>
-          <p><a class="btn btn-xs btn-success" href="{{site.baseurl}}/photo/">View details »</a>
-          <hr>
-          </p>
-
-          <h4 style="color:#1f5b9b">Summer Camping - Kenora!</h4>
-          <p style="color:#939aa0">Event / Aug - 2014 </p>
-          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p> 
-          <p><a class="btn btn-xs btn-warning" href="http://umaaps.github.io/news/2014/08/14/welcome-to-jekyll.html">View details »</a></p>
-        </div>
-
-        <div class="col-lg-6">
         {% for post in site.posts limit: 3 %}
                 <h4 style="color:#1f5b9b">{{ post.title }}</h4>
                 <span class="date" style="color:#939aa0"><span class="glyphicon glyphicon-calendar"></span> <time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time></span><br/>
