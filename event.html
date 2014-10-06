@@ -1,76 +1,20 @@
 ---
 layout: page
-title: Our Event
-permalink: /event/
+title: Events
 ---
-</br>
-</br>
 
-<div class="container">
-    <h3>Various types</h3>
-    <p>
-        fancyBox will try to guess content type from href attribute but you can specify it directly by adding classname (fancybox.image, fancybox.iframe, etc).
-    </p>
-    <ul>
-        <li><a class="fancybox" href="#inline1" title="Lorem ipsum dolor sit amet">Inline</a></li>
-        <li><a class="fancybox fancybox.ajax" href="{{site.fancyboxurl}}/demo/ajax.txt">Ajax</a></li>
-        <li><a class="fancybox fancybox.iframe" href="{{site.fancyboxurl}}/demo/iframe.html">Iframe</a></li>
-        <li><a class="fancybox" href="http://www.adobe.com/jp/events/cs3_web_edition_tour/swfs/perform.swf">Swf</a></li>
-    </ul>
+<!-- Show all posts here -->
+{% for post in site.posts %}
+    <article>
 
-    <div id="inline1" style="width:400px;display: none;">
-        <h3>Etiam quis mi eu elit</h3>
-        <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis mi eu elit tempor facilisis id et neque. Nulla sit amet sem sapien. Vestibulum imperdiet porta ante ac ornare. Nulla et lorem eu nibh adipiscing ultricies nec at lacus. Cras laoreet ultricies sem, at blandit mi eleifend aliquam. Nunc enim ipsum, vehicula non pretium varius, cursus ac tortor. Vivamus fringilla congue laoreet. Quisque ultrices sodales orci, quis rhoncus justo auctor in. Phasellus dui eros, bibendum eu feugiat ornare, faucibus eu mi. Nunc aliquet tempus sem, id aliquam diam varius ac. Maecenas nisl nunc, molestie vitae eleifend vel, iaculis sed magna. Aenean tempus lacus vitae orci posuere porttitor eget non felis. Donec lectus elit, aliquam nec eleifend sit amet, vestibulum sed nunc.
-        </p>
-    </div>
-
-    <p>
-        Ajax example will not run from your local computer and requires a server to run.
-    </p>
-
-    <h3>Button helper</h3>
-    <p>
-        <a class="fancybox-buttons" data-fancybox-group="button" href="{{site.fancyboxurl}}/demo/1_b.jpg"><img src="{{site.fancyboxurl}}/demo/1_s.jpg" alt="" /></a>
-
-        <a class="fancybox-buttons" data-fancybox-group="button" href="{{site.fancyboxurl}}/demo/2_b.jpg"><img src="{{site.fancyboxurl}}/demo/2_s.jpg" alt="" /></a>
-
-        <a class="fancybox-buttons" data-fancybox-group="button" href="{{site.fancyboxurl}}/demo/3_b.jpg"><img src="{{site.fancyboxurl}}/demo/3_s.jpg" alt="" /></a>
-
-        <a class="fancybox-buttons" data-fancybox-group="button" href="{{site.fancyboxurl}}/demo/4_b.jpg"><img src="{{site.fancyboxurl}}/demo/4_s.jpg" alt="" /></a>
-    </p>
-
-    <h3>Thumbnail helper</h3>
-    <p>
-        <a class="fancybox-thumbs" data-fancybox-group="thumb" href="{{site.fancyboxurl}}/demo/4_b.jpg"><img src="{{site.fancyboxurl}}/demo/4_s.jpg" alt="" /></a>
-
-        <a class="fancybox-thumbs" data-fancybox-group="thumb" href="{{site.fancyboxurl}}/demo/3_b.jpg"><img src="{{site.fancyboxurl}}/demo/3_s.jpg" alt="" /></a>
-
-        <a class="fancybox-thumbs" data-fancybox-group="thumb" href="{{site.fancyboxurl}}/demo/2_b.jpg"><img src="{{site.fancyboxurl}}/demo/2_s.jpg" alt="" /></a>
-
-        <a class="fancybox-thumbs" data-fancybox-group="thumb" href="{{site.fancyboxurl}}/demo/1_b.jpg"><img src="{{site.fancyboxurl}}/demo/1_s.jpg" alt="" /></a>
-    </p>
-
-    <h3>Media helper</h3>
-    <p>
-        Will not run from your local computer, requires a server to run.
-    </p>
-
-    <ul>
-        <li><a class="fancybox-media" href="http://www.youtube.com/watch?v=opj24KnzrWo">Youtube</a></li>
-        <li><a class="fancybox-media" href="http://vimeo.com/47480346">Vimeo</a></li>
-        <li><a class="fancybox-media" href="http://www.metacafe.com/watch/7635964/">Metacafe</a></li>
-        <li><a class="fancybox-media" href="http://www.dailymotion.com/video/xoeylt_electric-guest-this-head-i-hold_music">Dailymotion</a></li>
-        <li><a class="fancybox-media" href="http://twitvid.com/QY7MD">Twitvid</a></li>
-        <li><a class="fancybox-media" href="http://twitpic.com/7p93st">Twitpic</a></li>
-        <li><a class="fancybox-media" href="http://instagr.am/p/IejkuUGxQn">Instagram</a></li>
-    </ul>
+        <header>
+            <h2><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h2>
+            <span class="date"><span class="glyphicon glyphicon-calendar"></span> <time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time></span><br/>
+            <span class="category"><span class="glyphicon glyphicon-tag"></span> {{ post.categories | category_links }}</span><br/>
+            <span class="author"><span class="glyphicon glyphicon-user"></span> {% if post.author %}{{post.author}}{% else %}{{site.author}}{% endif%}</span>
+        </header>
     
-    <h3>Open manually</h3>
-    <ul>
-        <li><a id="fancybox-manual-a" href="javascript:;">Open single item</a></li>
-        <li><a id="fancybox-manual-b" href="javascript:;">Open single item, custom options</a></li>
-        <li><a id="fancybox-manual-c" href="javascript:;">Open gallery</a></li>
-    </ul>
-</div>
-
+        <div class="entry">{{ post.excerpt }}</div>
+        <p class="muted"><a class="btn btn-default" href="{{site.baseurl}}{{post.url}}">View Post &#187;</a></p>
+    </article>
+{% endfor %}
