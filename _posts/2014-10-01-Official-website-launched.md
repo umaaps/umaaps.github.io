@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Summer Camping - Kenora!
+title:  Official Website Launched
 author: UM AAPS
-date:   2014-08-14 20:48:12
-categories: News
-excerpt: Our most amazing activity during the summer of 2014!
+date:   2014-10-01
+categories: Announcement
+excerpt: Our chapter's official website is now launching! Check out our previous activities.
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
