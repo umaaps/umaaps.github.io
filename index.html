@@ -34,8 +34,8 @@ layout: default
 
         <div class="col-lg-6">
         {% for post in site.posts limit: 3 %}
-                <h2><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h2>
-                <p><span class="glyphicon glyphicon-user"></span>{% if post.author != nil %}{{post.author}}{% else %}{{site.author}}{% endif %}</p>
+                <h4><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h4>
+                <p style="color:#939aa0"><span class="date"><span class="glyphicon glyphicon-calendar"></span> <time datetime="{{page.date|date:"%F"}}">{{page.date|date:"%b %d, %Y"}}</time></span></p>
                 <p>{{ post.excerpt }}</p>
                 <p><a class="btn btn-xs btn-info" href="{{site.baseurl}}{{post.url}}">View details &#187;</a><hr></p>
         {% endfor %}
