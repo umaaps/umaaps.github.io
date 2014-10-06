@@ -15,9 +15,8 @@ permalink: /posts/
             <span class="author" style="color:#939aa0"><span class="glyphicon glyphicon-user"></span> {% if post.author %}{{post.author}}{% else %}{{site.author}}{% endif%}</span>
         </header>
 
-        </br>
-
         <div class="entry">{{ post.excerpt }}</div>
+        </br>
         <p class="muted"><a class="btn btn-xs btn-info" href="{{site.baseurl}}{{post.url}}">View Post &#187;</a></p>
     </article>
 {% endfor %}
