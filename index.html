@@ -35,7 +35,7 @@ layout: default
         <div class="col-lg-6">
         {% for post in site.posts limit: 3 %}
                 <h4><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h4>
-                <p style="color:#939aa0"><span class="date"><span class="glyphicon glyphicon-calendar"></span> <time datetime="{{page.date|date:"%F"}}">{{page.date|date:"%b %d, %Y"}}</time></span></p>
+                <p><span class="date"><span class="glyphicon glyphicon-calendar"></span> <time datetime="{{page.date|date:"%F"}}">{{page.date|date:"%b %d, %Y"}}</time></span></p>
                 <p>{{ post.excerpt }}</p>
                 <p><a class="btn btn-xs btn-info" href="{{site.baseurl}}{{post.url}}">View details &#187;</a><hr></p>
         {% endfor %}
