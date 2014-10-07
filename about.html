@@ -20,7 +20,7 @@ permalink: /about/
         <div class="tab-pane fade in active" id="who">
 
         	<section>          
-            	<p align="justify">The <b style="color:#057aff">University of Manitoba (UM) American Association of Pharmaceutical Scientists (AAPS) Student Chapter</b> is the official local AAPS student chapter Winnipeg, Manitoba, Canada.</p>
+            	<p align="justify">The <b style="color:#1f5b9b">University of Manitoba (UM) American Association of Pharmaceutical Scientists (AAPS) Student Chapter</b> is the official local AAPS student chapter Winnipeg, Manitoba, Canada.</p>
 
                 <p align="justify">It has continued to focus on the expasion of membership to all departments located at the University of Manitoba Health Science Campus. Many students from diverse biomedical departments have found the benefits of AAPS student chapter membership through a novel approach to monthly events we recently implemented. Studetn chapter resources are frequently used to sponsor lunches with influential scientit presenters from the various fields or departments represented by our student membership; giving a unique opportunity to network with and gain valuable career development input from leaders in the pharmaceutical sciences.</p>
                 
@@ -41,7 +41,7 @@ permalink: /about/
 
         	<section>
         		<p></p>
-            	<p style="color:#5cb85c">UM AAPS Student Chapter Committee:</p>
+            	<p class="lead">UM AAPS Student Chapter Committee:</p>
             		<ul class="media-list">
                 		{% for committee_positions in site.committee_positions %}
                 		{% assign committee = site.committee[committee_positions] %}
@@ -82,6 +82,11 @@ permalink: /about/
                         		<td align="right"><a class="btn btn-sm btn-default" href="mailto:{{site.web_email}}"><span class="glyphicon glyphicon-envelope"></span> {{site.web_email}}</a></p>
                     		</address>
                 		</td></tr>
+                        <tr><td>
+                            <address>
+                                <p>Website design based on <a href="http://getbootstrap.com/" target="_blank"><span class="label label-primary">Bootstrap</span></a> template and <a href="http://www.strathseds.org/" target="_blank"><span class="label label-danger">StrathSEDS.org</span></a></p>
+                            </address>
+                        </td></tr>
             		</table>
         	</section>
         </div>
