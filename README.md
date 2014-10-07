@@ -18,7 +18,7 @@ Run-time dependencies:
 * A web server (any will do)
 
 
-Complete Idiot's Guide ()
+Fast Testing Guide
 ----------------------
 
 To use this template:
