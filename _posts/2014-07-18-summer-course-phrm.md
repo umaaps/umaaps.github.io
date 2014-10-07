@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Summer Camping - Kenora!
+title:  Summer Course PHRM 2014 - Trip to Kenora!
 author: UM AAPS
-date:   2014-08-14 20:48:12
+date:   2014-07-18 20:48:12
 categories: News
 excerpt: Our most amazing activity during the summer of 2014!
 ---
