@@ -47,13 +47,13 @@ Credits
 
 Based off of [Bootstrap](http://getbootstrap.org/)
 
-Some code and framework design are by [StrathSEDS Group][ss]
+Some code and framework design are nicely done by [StrathSEDS Group][ss]
 
 
 Licence
 -------
 
-This code is under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License][cc-l]. Permissions beyond the scope of this license cannot be granted without contacting the [original author](chanyufei@gmail.com).
+This code and content is under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License][cc-l]. Permissions beyond the scope of this license cannot be granted without contacting the original author at chanyufei [at] gmail [dot] com.
 
 
 [rb]: http://www.ruby-lang.org/
