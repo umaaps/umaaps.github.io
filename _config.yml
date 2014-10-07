@@ -41,17 +41,17 @@ committee_positions: [president, advisor, secretary, treasurer]
 committee:
   president:
     name: Sarandeep Malhi
-    gravatar: 29e309f15dc5748a962f13185d90bf62
+    gravatar: 3b3be63a4c2a439b013787725dfce802
     email: malhis@myumanitoba.ca
     position: President
   vp:
     name: Jennifer Miller
-    gravatar: 29e309f15dc5748a962f13185d90bf62
+    gravatar: 3b3be63a4c2a439b013787725dfce802
     email: vicepresident@strathseds.org
     position: Vice-president
   advisor:
     name: Dr. Keith Simons
-    gravatar: 29e309f15dc5748a962f13185d90bf62
+    gravatar: 3b3be63a4c2a439b013787725dfce802
     email: Keith.Simons@ad.umanitoba.ca
     position: Faculty Advisor
   secretary:
@@ -61,7 +61,7 @@ committee:
     position: Secretary
   treasurer:
     name: Sidi Yang
-    gravatar: 29e309f15dc5748a962f13185d90bf62
+    gravatar: 3b3be63a4c2a439b013787725dfce802
     email: sidi.yang@umanitoba.ca
     position: Treasurer
 
