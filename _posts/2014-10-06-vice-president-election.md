@@ -4,7 +4,7 @@ title:  Vice-president Election
 author: UM AAPS
 date:   2014-10-06
 categories: Event
-excerpt: Wanna contribute to the our chapter and interested in working a leader? Don't wait! We are recruiting Vic-president for the chapter now!
+excerpt: Want to contribute to the our chapter and interested in working a leader? Don't wait! We are recruiting Vice-president for the chapter now!
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
