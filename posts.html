@@ -8,31 +8,31 @@ permalink: /posts/
 
 
 <!-- Start of all posts -->
-<div class="col-lg-8">
-<h4 style="color:#1f5b9b">New Activities</h4>
-{% for post in site.posts %}
-    <article>
+    <div class="row marketing">
+        <div class="col-lg-8">
+        {% for post in site.posts %}
+            <article>
+                <header>
+                    <h4 style="color:#1f5b9b"><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h4>
+                    <span class="date" style="color:#939aa0"><span class="glyphicon glyphicon-calendar"></span> <time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time></span></br>
+                    <span class="category" style="color:#939aa0"><span class="glyphicon glyphicon-tag"></span> {{ post.categories | category_links }}</span></br>
+                    <span class="author" style="color:#939aa0"><span class="glyphicon glyphicon-user"></span> {% if post.author %}{{post.author}}{% else %}{{site.author}}{% endif%}</span>
+                </header>
 
-        <header>
-            <h4 style="color:#1f5b9b"><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h4>
-            <span class="date" style="color:#939aa0"><span class="glyphicon glyphicon-calendar"></span> <time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time></span></br>
-            <span class="category" style="color:#939aa0"><span class="glyphicon glyphicon-tag"></span> {{ post.categories | category_links }}</span></br>
-            <span class="author" style="color:#939aa0"><span class="glyphicon glyphicon-user"></span> {% if post.author %}{{post.author}}{% else %}{{site.author}}{% endif%}</span>
-        </header>
-
-        <p class="entry">{{ post.excerpt }}</p>
-        <p class="muted"><a class="btn btn-sm btn-info" href="{{site.baseurl}}{{post.url}}">View Post &#187;</a></p>
-    </article>
-        </br>
-{% endfor %}
-</div>
+                <p class="entry">{{ post.excerpt }}</p>
+                <p class="muted"><a class="btn btn-sm btn-info" href="{{site.baseurl}}{{post.url}}">View Post &#187;</a></p>
+            </article>
+                </br>
+        % endfor %}
+        </div>
 <!-- End of all posts -->
 
-<div class="container col-lg-4">
-    <h4 style="color:#1f5b9b">Annual Activities</h4>
-    <ul>
-        <li class="fancybox fancybox.iframe" href="{{site.annual_activityurl}}2014-2015.html">2014-2015</a></li>
-        <li class="fancybox fancybox.iframe" href="{{site.annual_activityurl}}2013-2014.html">2013-2014</a></li>
-        <li class="fancybox fancybox.iframe" href="{{site.annual_activityurl}}2012-2013.html">2012-2013</a></li>
-    </ul>
-</div>
+        <div class="container col-lg-4">
+            <h4 style="color:#1f5b9b">Annual Activities</h4>
+            <ul>
+                <li class="fancybox fancybox.iframe" href="{{site.annual_activityurl}}2014-2015.html">2014-2015</a></li>
+                <li class="fancybox fancybox.iframe" href="{{site.annual_activityurl}}2013-2014.html">2013-2014</a></li>
+                <li class="fancybox fancybox.iframe" href="{{site.annual_activityurl}}2012-2013.html">2012-2013</a></li>
+            </ul>
+        </div>
+    </div>
