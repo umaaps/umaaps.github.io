@@ -19,19 +19,19 @@ permalink: /about/
     	<!-- ABOUT -->
         <div class="tab-pane fade in active" id="who">
 
-        	<section>          
-            	<p align="justify">The <b style="color:#1f5b9b">University of Manitoba (UM) American Association of Pharmaceutical Scientists (AAPS) Student Chapter</b> is the official local AAPS student chapter Winnipeg, Manitoba, Canada.</p>
-
+        	<section> 
+        		<p></p>          
+            	<p align="justify">The <b style="#428bca">University of Manitoba American Association of Pharmaceutical Scientists (AAPS) Student Chapter</b> is the official local AAPS student chapter Winnipeg, Manitoba, Canada.</p>
                 <p align="justify">It has continued to focus on the expasion of membership to all departments located at the University of Manitoba Health Science Campus. Many students from diverse biomedical departments have found the benefits of AAPS student chapter membership through a novel approach to monthly events we recently implemented. Studetn chapter resources are frequently used to sponsor lunches with influential scientit presenters from the various fields or departments represented by our student membership; giving a unique opportunity to network with and gain valuable career development input from leaders in the pharmaceutical sciences.</p>
-                
-                <p align="justify">UM AAPS is funded by <a href="http://www.aaps.org" target="_blank" style="color:#057aff">AAPS<a>.</p>
-            	<p>
-                	<div class="col-xs-6 col-sm-8 thumbnail"><img class="img-responsive" src="{{site.imageurl}}/AAPS_logo.png" alt="UM AAPS is funded by AAPS"></div>
+                <p align="justify">UM AAPS Student Chapter is funded by <a class="btn btn-xs btn-primary" href="http://www.aaps.org" target="_blank">AAPS</a>.</p>
+
+            	<div class="row marketing">
+                	<div class="col-xs-6 col-sm-8 thumbnail"><img class="img-responsive" src="{{site.imageurl}}/AAPS_logo.png" alt=""></div>
                 	<!--<div class="col-xs-6 col-sm-4 thumbnail"><img class="img-responsive" src="{{site.logo}}" /></div>
-                	 Optional: clear the XS cols if their content doesn't match in height -->
+                	<!-- Optional: clear the XS cols if their content doesn't match in height -->
                 	<!--<div class="clearfix visible-xs"></div>
                 	<div class="col-xs-6 col-sm-4 thumbnail"></div>-->
-                </p>
+           
         	</section>
 
         </div>
@@ -39,22 +39,23 @@ permalink: /about/
     	<!-- COMMITTEE -->
         <div class="tab-pane fade" id="committee">
 
-        <section>
-            <p class="lead">StrathSEDS Committee:</p>
-            <ul class="media-list">
-                {% for committee_positions in site.committee_positions %}
-                {% assign committee = site.committee[committee_positions] %}
-                <li class="media">
-                    <img class="pull-left img-thumbnail" src="https://0.gravatar.com/avatar/{{committee.gravatar}}?s=75" alt="{{committee.name}}" />
-                    <div class="media-body">
-                        <h4 class="media-heading">{{committee.position}}</h4>
-                        <p>Name: {{committee.name}}</p>
-                        <p>Email: <a href="mailto:{{committee.email}}">{{committee.email}}</a></p>
-                    </div>
-                </li>
-                {% endfor %}
-            </ul>
-        </section>
+        	<section>
+        		<p></p>
+            	<p class="lead">UM AAPS Student Chapter Committee:</p>
+            		<ul class="media-list">
+                		{% for committee_positions in site.committee_positions %}
+                		{% assign committee = site.committee[committee_positions] %}
+                		<li class="media">
+                    		<img class="pull-left img-thumbnail" src="https://0.gravatar.com/avatar/{{committee.gravatar}}?s=75" alt="{{committee.name}}" />
+                    			<div class="media-body">
+                        			<p><h5 class="media-heading"><b>{{committee.name}}</b></h5></p>
+                        			<p><span class="label label-success">{{committee.position}}</span></p>
+                        			<small>Email: <a href="mailto:{{committee.email}}">{{committee.email}}</a></small>
+                    			</div>
+                		</li>
+                		{% endfor %}
+            		</ul>
+        	</section>
         </div>
 
     	<!-- SUPPORT -->
@@ -83,7 +84,7 @@ permalink: /about/
                 		</td></tr>
                         <tr><td>
                             <address>
-                                <p>Website design based on <a class="btn btn-xs btn-primary" href="http://getbootstrap.com/" target="_blank">Bootstrap</a> template and <a class="btn btn-xs btn-success" href="http://www.strathseds.org/" target="_blank">StrathSEDS.org</a></p>
+                                <p>Website is designed based on <a class="btn btn-xs btn-primary" href="http://www.getbootstrap.com" target="_blank">Bootstrap</a> template and <a class="btn btn-xs btn-success" href="http://www.strathseds.org" target="_blank">StrathSEDS.org</a></td>
                             </address>
                         </td></tr>
             		</table>
