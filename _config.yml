@@ -37,30 +37,41 @@ contact_email: umaaps.chapter@gmail.com
 web_email: chanyufei@gmail.com
 
 # Committee data
-committee_positions: [president, advisor, secretary, treasurer]
+committee_positions: [advisor, chair, vicechair, design, treasurer]
 committee:
-  president:
+  chair:
     name: Sarandeep Malhi
+    title: M.Sc.
     gravatar: 3b3be63a4c2a439b013787725dfce802
     email: malhis@myumanitoba.ca
-    position: President
-  vp:
+    position: Student Chair
+  vicechair:
     name: Jennifer Miller
+    title: Ph.D.
     gravatar: 3b3be63a4c2a439b013787725dfce802
     email: vicepresident@strathseds.org
-    position: Vice-president
+    position: Vice-Chair
   advisor:
-    name: Dr. Keith Simons
+    name: Keith Simons
+    title: Ph.D.
     gravatar: 3b3be63a4c2a439b013787725dfce802
     email: Keith.Simons@ad.umanitoba.ca
     position: Faculty Advisor
   secretary:
     name: Yufei Chen
+    title: M.Sc.
     gravatar: dcf2fa54d9a15ac67000c4b71abc07e6
     email: umche355@myumanitoba.ca
     position: Secretary
+  design:
+    name: Yufei Chen
+    title: M.Sc.
+    gravatar: dcf2fa54d9a15ac67000c4b71abc07e6
+    email: umche355@myumanitoba.ca
+    position: Web Design
   treasurer:
     name: Sidi Yang
+    title: B.Sc.
     gravatar: 3b3be63a4c2a439b013787725dfce802
     email: sidi.yang@umanitoba.ca
     position: Treasurer
