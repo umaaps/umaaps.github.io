@@ -37,7 +37,7 @@ contact_email: umaaps.chapter@gmail.com
 web_email: chanyufei@gmail.com
 
 # Committee data
-committee_positions: [advisor, chair, vicechair, design, treasurer]
+committee_positions: [advisor, chair, design, treasurer]
 committee:
   chair:
     name: Sarandeep Malhi
