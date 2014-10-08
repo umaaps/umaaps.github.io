@@ -4,24 +4,13 @@ title:  Vice-president Election
 author: UM AAPS
 date:   2014-10-06
 categories: Event
-excerpt: Want to contribute to the our chapter and interested in working a leader? Don't wait! We are recruiting Vice-president for the chapter now!
+excerpt: Want to contribute to the our chapter and interested in working as a leader? Don't wait! We are recruiting Vice-Chair for the chapter now!
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+As the new semester begins, we are establishing our new chapter committee. First, we would like to say "<b>Thank you!</b>" to the previous chapter committee members, Zhanni, Jena, and Min, for their continous and significant contribution to our local chapter! It was such a wonderful time to have you guys on board and serve the best to make our chapter better. Great job guys for the past year! We wish you a great future in your next big step!
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Now, we decide to running an election for the Vice-Chair of our chapter. Anyone interested please email Zhanni by Oct 6 and we will run the election on Oct 8 after the seminar.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
