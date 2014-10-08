@@ -7,22 +7,13 @@ categories: Announcement
 excerpt: Our chapter's official website is now launching! Check out our previous activities.
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+Our official website finally launched and hosted on [GitHub][github] and released under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License][cc-l] for you to folk. We would like to express our appreciation to [StrahSEDS web team][strahseds] for their awesome site template.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Please also keep an eye on our [Facebook][umaaps-facebook] channal for future event announcements and also, don't forget to [follow us][umaaps-twitter] on twitter to received our rolling news! :)
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+[github]: http://github.com
+[umaaps-facebook]: https://www.facebook.com/umaapssc
+[umaaps-twitter]: http://twitter.com/UM_AAPS
+[cc-l]: http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US
+[strahseds]: http://strahseds.org
