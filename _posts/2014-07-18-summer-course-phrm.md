@@ -7,7 +7,7 @@ categories: News
 excerpt: Our most amazing activity during the summer of 2014!
 ---
 
-Thanks to the finicial support by our chapter we are able to make a 3-day camping trip to Kenora surrounded by many lakes! Check out our [Gallery page][kenora] for the pictures!
+Thanks to the finicial support by our chapter we are able to make a 3-day camping trip to Kenora surrounded by many lakes! Check out our photos below!
 
 
 <div class="col-xs-6 col-md-3">
@@ -37,5 +37,3 @@ Thanks to the finicial support by our chapter we are able to make a 3-day campin
         <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://cdn.makeagif.com/media/10-07-2014/Tgn_WR.gif" title="">
         <img src="http://cdn.makeagif.com/media/10-07-2014/Tgn_WR.gif" alt="" /></a>
     </div>
-
-[kenora]: http://umaaps.github.io/gallery/
