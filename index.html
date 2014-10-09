@@ -17,14 +17,8 @@ layout: default
                 <span class="date" style="color:#939aa0"><span class="glyphicon glyphicon-calendar"></span> <time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time></span><br/>
                 <p>{{ post.excerpt }}</p>
 
-                {% if post.categories == "announcement" %}
-                {{<p><a class="btn btn-xs btn-danger" href="{{site.baseurl}}{{post.url}}">View details &#187;</a></br></p>"}}
-                {% elsif page.categories == "news" %}
-                {{<p><a class="btn btn-xs btn-warning" href="{{site.baseurl}}{{post.url}}">View details &#187;</a></br></p>"}}
-                {% else %}
-                {{<p><a class="btn btn-xs btn-info" href="{{site.baseurl}}{{post.url}}">View details &#187;</a></br></p>"}}
-                {% endif %}
-              
+                <p><a class="btn btn-xs btn-info" href="{{site.baseurl}}{{post.url}}">View details &#187;</a></br></p>"
+
         {% endfor %}
         </div>
 
