@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Official Website Launched
-author: UM AAPS
+author: UM_AAPS
 date:   2014-10-01
 categories: Announcement
 excerpt: Our chapter's official website is now launching! Check out our previous activities.
