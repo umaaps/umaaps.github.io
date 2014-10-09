@@ -13,11 +13,10 @@ layout: default
       <div class="row marketing">
         <div class="col-lg-6">
         {% for post in site.posts limit: 3 %}
-                <h4 style="color:#1f5b9b">{{ post.title }}</h4>
+                <h4 style="color:#1f5b9b">{{ post.title }} {{ post.categories }}</h4>
                 <span class="date" style="color:#939aa0"><span class="glyphicon glyphicon-calendar"></span> <time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time></span><br/>
                 <p>{{ post.excerpt }}</p>
-                <p><a class="btn btn-xs btn-info" href="{{site.baseurl}}{{post.url}}">View details &#187;</a></br></p>
-
+                <p><a class="btn btn-xs btn-{% case post.title %}{% when 'Official Website Launched' %}success{% when 'Summer Course PHRM 2014 - Trip to Kenora!' %}warning{% else %}info{% endcase %}" href="{{site.baseurl}}{{post.url}}">View details &#187;</a></br></p>
         {% endfor %}
         </div>
 

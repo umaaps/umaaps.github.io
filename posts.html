@@ -18,7 +18,7 @@ permalink: /posts/
                 </header>
 
                 <p class="entry">{{ post.excerpt }}</p>
-                <p class="muted"><a class="btn btn-sm btn-info" href="{{site.baseurl}}{{post.url}}">View Post &#187;</a></p>
+                <p><a class="btn btn-xs btn-{% case post.title %}{% when 'Official Website Launched' %}success{% when 'Summer Course PHRM 2014 - Trip to Kenora!' %}warning{% else %}info{% endcase %}" href="{{site.baseurl}}{{post.url}}">View details &#187;</a></p>
             </article>
                 </br>
         {% endfor %}
