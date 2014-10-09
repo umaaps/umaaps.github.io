@@ -3,7 +3,7 @@ layout: post
 title:  Summer Course PHRM 2014 - Trip to Kenora!
 author: UM_AAPS
 date:   2014-07-18
-categories: News
+categories: news
 excerpt: Our most amazing activity during the summer of 2014!
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  Vice-president Election
 author: UM_AAPS
 date:   2014-10-06
-categories: Event
+categories: event
 excerpt: Want to contribute to the our chapter and interested in working as a leader? Don't wait! We are recruiting Vice-Chair for the chapter now!
 ---
 
