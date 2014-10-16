@@ -240,7 +240,16 @@
 
   <body>
 
-        <div class="container">
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+    <div class="container">
       <div class="header">
         <ul class="nav nav-pills pull-right">
           <li ><a href="http://umaaps.github.io/">Home</a></li>
@@ -361,6 +370,7 @@
             </span>
             </p>
       </div>
+      <div class="fb-like" data-href="https://www.facebook.com/umaapssc" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
         <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->    
