@@ -8,7 +8,7 @@ tags: news
 excerpt: Our first industrial tour!
 ---
 
-Along with the efforts of 4 of 0 Biomedical Engineering Society and Dr. Emmanuel A. Ho from College of Pharmacy, we have organized a tour of Emergent Biosolutions (Formerly Cangene) located at Fort Garry Campus. Emergent Biosolutions focuses on protecting and enhancing life through the development and manufacturing of vaccines and therapies for treatments of rare diseases, blood disorders, and medical countermeasures for bio-defense.
+Along with the efforts of U of M Biomedical Engineering Society and Dr. Emmanuel A. Ho from College of Pharmacy, we have organized a tour of Emergent Biosolutions (Formerly Cangene) located at Fort Garry Campus. Emergent Biosolutions focuses on protecting and enhancing life through the development and manufacturing of vaccines and therapies for treatments of rare diseases, blood disorders, and medical countermeasures for bio-defense.
 
 
 <div class="col-xs-6 col-md-3">
