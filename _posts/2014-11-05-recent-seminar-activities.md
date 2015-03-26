@@ -107,21 +107,13 @@ Thanks to the finicial support by our Faculty of Pharmacy we are grateful to hav
     </div>
 
     <div class="col-xs-6 col-md-3">
-        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/8 _b.JPG" title="">
-        <img src="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/8_s.JPG" alt="" /></a>
-    </div>
-
-</br>
-
-    <div class="col-xs-6 col-md-3">
         <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/9_b.JPG" title="">
         <img src="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/9_s.JPG" alt="" /></a>
     </div>
 
-    <div class="col-xs-6 col-md-3">
-        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/10_b.JPG" title="">
-        <img src="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/10_s.JPG" alt="" /></a>
-    </div>
+</br>
+
+
 
 </section>
 
