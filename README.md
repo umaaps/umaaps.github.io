@@ -1,6 +1,6 @@
 Student Chapter CMS [MOD]
 ================
-It's the official code for the website for [UM AAPS Student Chapter][umaaps], cloned and redsigned based on a nicely developed jekyll-based CMS site called [StrathSEDS.org][ss]. It uses [bootstrap](https://github.com/twitter/bootstrap), [jekyll][jk], [ruby][rb], and [liquid](https://github.com/Shopify/liquid/).
+It's the official code for the website for [UM AAPS Student Chapter][umaaps], cloned and redsigned based on a nicely developed jekyll-based CMS site called [StrathSEDS.org][ss]. It uses [bootstrap](https://github.com/twitter/bootstrap), [jekyll][jk], [ruby][rb], [liquid], and [fancybox].
 
 Requirements
 ------------
@@ -66,3 +66,5 @@ This code and content is under a [Creative Commons Attribution-NonCommercial-NoD
 [cc-l]: http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US
 [ss]: http://strathseds.org
 [umaaps]:http://umaaps.github.io
+[liquid]: https://github.com/Shopify/liquid/
+[fancybox]: http://fancyapps.com/fancybox
