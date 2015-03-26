@@ -14,7 +14,7 @@ Thanks to the finicial support by our chapter we are able to make a 3-day campin
 <div class="col-xs-6 col-md-3">
         <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-kenora-trip/1_b.jpg" title="">
         <img src="http://umaaps.github.io/assets/images/2014-kenora-trip/1_s.jpg" alt="" /></a>
-    </div>
+</div>
 
 <div class="col-xs-6 col-md-3">
         <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-kenora-trip/2_b.jpg" title="">
