@@ -8,7 +8,7 @@ tags: news
 excerpt: Our first event in 2015!
 ---
 
-Our first event in 2015!
+Our first event in 2015! Laser Jungle!
 
 
 <div class="col-xs-6 col-md-3">
