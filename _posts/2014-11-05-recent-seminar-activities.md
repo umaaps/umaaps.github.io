@@ -68,15 +68,15 @@ Thanks to the finicial support by our Faculty of Pharmacy we are grateful to hav
         <h4 style="color:#d9534f">Meeting with Dr. MA. Lindsay <small>/ 2014-10-15</small></h4>
     </div>
     
-    <!-- Photo for Meeting with Dr. J. Tisadle photo -->    
+    <!-- Photo for Meeting with Dr. MA. Lindsay photo -->    
     <div class="col-xs-6 col-md-3">
         <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-15-meeting-with-dr-m-a-lindsay/1_b.JPG" title="">
         <img src="http://umaaps.github.io/assets/images/2014-10-15-meeting-with-dr-m-a-lindsay/1_s.JPG" alt="" /></a>
     </div>
     
     <div class="col-xs-6 col-md-3">
-        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-15-meeting-with-dr-m-a-lindsay/2_b.JPG" title="">
-        <img src="http://umaaps.github.io/assets/images/2014-10-15-meeting-with-dr-m-a-lindsay/2_s.JPG" alt="" /></a>
+        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-15-meeting-with-dr-m-a-lindsay/14_b.JPG" title="">
+        <img src="http://umaaps.github.io/assets/images/2014-10-15-meeting-with-dr-m-a-lindsay/14_s.JPG" alt="" /></a>
     </div>
 
     <div class="col-xs-6 col-md-3">
@@ -141,9 +141,10 @@ Thanks to the finicial support by our Faculty of Pharmacy we are grateful to hav
     </div>
 
     <div class="col-xs-6 col-md-3">
-        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-15-meeting-with-dr-m-a-lindsay/14_b.JPG" title="">
-        <img src="http://umaaps.github.io/assets/images/2014-10-15-meeting-with-dr-m-a-lindsay/14_s.JPG" alt="" /></a>
+        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-15-meeting-with-dr-m-a-lindsay/2_b.JPG" title="">
+        <img src="http://umaaps.github.io/assets/images/2014-10-15-meeting-with-dr-m-a-lindsay/2_s.JPG" alt="" /></a>
     </div>
+    
 </section>
 
 <section id="transitions" class="col-xs-12">
