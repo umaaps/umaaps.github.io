@@ -8,7 +8,7 @@ tags: news
 excerpt: Our first industrial tour!
 ---
 
-Along with the efforts of <a href="https://www.facebook.com/umbmes" target="_blank">University of Manitoba Biomedical Engineering Society</a> and <a href="http://home.cc.umanitoba.ca/~hoea/pi.html" target="_blank">Dr. Emmanuel A. Ho</a> from College of Pharmacy, we have organized a tour of <a href="http://www.lsam.ca/member-directory/view,profile/379/emergent-biosolutions" target="_blank">Emergent Biosolutions</a> (Formerly Cangene) located at Fort Garry Campus. Emergent Biosolutions focuses on protecting and enhancing life through the development and manufacturing of vaccines and therapies for treatments of rare diseases, blood disorders, and medical countermeasures for bio-defense.
+Along with the efforts of <a href="https://www.facebook.com/umbmes" target="_blank">University of Manitoba Biomedical Engineering Society</a> and <a href="http://home.cc.umanitoba.ca/~hoea/pi.html" target="_blank">Dr. Emmanuel A. Ho</a> from <a href="http://umanitoba.ca/faculties/health_sciences/pharmacy/" target="_blank">College of Pharmacy</a>, we have organized a tour of <a href="http://www.lsam.ca/member-directory/view,profile/379/emergent-biosolutions" target="_blank">Emergent Biosolutions</a> (Formerly Cangene) located at Fort Garry Campus. Emergent Biosolutions focuses on protecting and enhancing life through the development and manufacturing of vaccines and therapies for treatments of rare diseases, blood disorders, and medical countermeasures for bio-defense.
 
 
 <div class="col-xs-6 col-md-3">
