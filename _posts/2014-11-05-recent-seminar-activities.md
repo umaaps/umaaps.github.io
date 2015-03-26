@@ -20,45 +20,45 @@ Thanks to the finicial support by our Faculty of Pharmacy we are grateful to hav
     
     <!-- Photo for 2013 student chapter group photo -->    
     <div class="col-xs-6 col-md-3">
-        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/1_b.jpg" title="">
-        <img src="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/1_s.jpg" alt="" /></a>
+        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/1_b.JPG" title="">
+        <img src="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/1_s.JPG" alt="" /></a>
     </div>
     
     <div class="col-xs-6 col-md-3">
-        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/2_b.jpg" title="">
-        <img src="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/2_s.jpg" alt="" /></a>
+        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/2_b.JPG" title="">
+        <img src="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/2_s.JPG" alt="" /></a>
     </div>
 
     <div class="col-xs-6 col-md-3">
-        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/3_b.jpg" title="">
-        <img src="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/3_s.jpg" alt="" /></a>
+        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/3_b.JPG" title="">
+        <img src="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/3_s.JPG" alt="" /></a>
     </div>
 
     <div class="col-xs-6 col-md-3">
-        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/4_b.jpg" title="">
-        <img src="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/4_s.jpg" alt="" /></a>
+        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/4_b.JPG" title="">
+        <img src="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/4_s.JPG" alt="" /></a>
     </div>
 
 </br>
 
     <div class="col-xs-6 col-md-3">
-        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/5_b.jpg" title="">
-        <img src="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/5_s.jpg" alt="" /></a>
+        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/5_b.JPG" title="">
+        <img src="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/5_s.JPG" alt="" /></a>
     </div>
 
     <div class="col-xs-6 col-md-3">
-        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/6_b.jpg" title="">
-        <img src="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/6_s.jpg" alt="" /></a>
+        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/6_b.JPG" title="">
+        <img src="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/6_s.JPG" alt="" /></a>
     </div>
 
     <div class="col-xs-6 col-md-3">
-        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/7_b.jpg" title="">
-        <img src="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/7_s.jpg" alt="" /></a>
+        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/7_b.JPG" title="">
+        <img src="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/7_s.JPG" alt="" /></a>
     </div>
 
     <div class="col-xs-6 col-md-3">
-        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/8_b.jpg" title="">
-        <img src="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/8_s.jpg" alt="" /></a>
+        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/8 _b.JPG" title="">
+        <img src="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/8_s.JPG" alt="" /></a>
     </div>
 
 </section>
