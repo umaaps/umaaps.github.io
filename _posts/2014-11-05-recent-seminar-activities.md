@@ -63,4 +63,66 @@ Thanks to the finicial support by our Faculty of Pharmacy we are grateful to hav
 
 </section>
 
+<section id="transitions" class="col-xs-12">
+    <div class="page-header">
+        <h4 style="color:#d9534f">Meeting with Dr. J. Tisadle <small>/ 2014-09-24</small></h4>
+    </div>
+    
+    <!-- Photo for Meeting with Dr. J. Tisadle photo -->    
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/1_b.JPG" title="">
+        <img src="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/1_s.JPG" alt="" /></a>
+    </div>
+    
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/2_b.JPG" title="">
+        <img src="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/2_s.JPG" alt="" /></a>
+    </div>
+
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/3_b.JPG" title="">
+        <img src="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/3_s.JPG" alt="" /></a>
+    </div>
+
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/4_b.JPG" title="">
+        <img src="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/4_s.JPG" alt="" /></a>
+    </div>
+
+</br>
+
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/5_b.JPG" title="">
+        <img src="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/5_s.JPG" alt="" /></a>
+    </div>
+
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/6_b.JPG" title="">
+        <img src="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/6_s.JPG" alt="" /></a>
+    </div>
+
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/7_b.JPG" title="">
+        <img src="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/7_s.JPG" alt="" /></a>
+    </div>
+
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/8 _b.JPG" title="">
+        <img src="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/8_s.JPG" alt="" /></a>
+    </div>
+
+</br>
+
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/9_b.JPG" title="">
+        <img src="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/9_s.JPG" alt="" /></a>
+    </div>
+
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/10_b.JPG" title="">
+        <img src="http://umaaps.github.io/assets/images/2014-09-24-meeting-with-dr-j.tisdale/10_s.JPG" alt="" /></a>
+    </div>
+
+</section>
+
 </div>
