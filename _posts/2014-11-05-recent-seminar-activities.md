@@ -15,10 +15,10 @@ Thanks to the finicial support by our Faculty of Pharmacy we are grateful to hav
 
 <section id="transitions" class="col-xs-12">
     <div class="page-header">
-        <h3 style="color:#d9534f">Meeting with Dr. F. Remillard <small>/ 2014-10-29</small></h3>
+        <h4 style="color:#d9534f">Meeting with Dr. F. Remillard <small>/ 2014-10-29</small></h4>
     </div>
     
-    <!-- Photo for 2013 student chapter group photo -->    
+    <!-- Photo for Meeting with Dr. F. Remillard photo -->    
     <div class="col-xs-6 col-md-3">
         <a class="thumbnail fancybox-effects-c" data-fancybox-group="button" href="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/1_b.JPG" title="">
         <img src="http://umaaps.github.io/assets/images/2014-10-29-meeting-with-dr-f.remillard/1_s.JPG" alt="" /></a>
