@@ -5,7 +5,7 @@ author: UM_AAPS
 date:   2014-11-08
 categories: event
 tags: news
-excerpt: Our first industrial tour!
+excerpt: It is a great time at our bowling event!
 ---
 
 It's a really great time at Academy Lane's today! Thank you everyone joining us and special thank goes to Sarandeep for organizing this event!
