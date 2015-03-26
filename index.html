@@ -14,7 +14,7 @@ layout: default
                 <h4 style="color:#1f5b9b">{{ post.title }} {{ post.categories }}</h4>
                 <span class="date" style="color:#939aa0"><span class="glyphicon glyphicon-calendar"></span> <time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time></span><br/>
                 <p>{{ post.excerpt }}</p>
-                <p><a class="btn btn-xs btn-{% case post.title %}{% when 'Industrial Tour - Emergent Biosolutions' %}success{% when 'Recent Seminar Activities' %}warning{% else %}info{% endcase %}" href="{{site.baseurl}}{{post.url}}">View details &#187;</a></br></p>
+                <p><a class="btn btn-xs btn-{% case post.title %}{% when 'Industrial Tour - Emergent Biosolutions' %}success{% when 'Bowling Event' %}warning{% else %}info{% endcase %}" href="{{site.baseurl}}{{post.url}}">View details &#187;</a></br></p>
         {% endfor %}
         </div>
 
