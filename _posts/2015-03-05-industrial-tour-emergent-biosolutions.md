@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Industrial Tour: Emergent Biosolutions
+title:  Industrial Tour - Emergent Biosolutions
 author: UM_AAPS
 date:   2015-02-28
 categories: event
